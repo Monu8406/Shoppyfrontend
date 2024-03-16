@@ -4,6 +4,7 @@
   align-items: center;
   gap: 10px;
   height: auto;
+  box-sizing: border-box;
 }
 .popular h1{
     color: #171717;
