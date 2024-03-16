@@ -1,4 +1,5 @@
 .offers{
+  margin-top: 40px;
   width: 65%;
 
   height: 60vh;
@@ -8,7 +9,9 @@
   margin-bottom: 150px;
   background: linear-gradient(180deg, #fde1ff 0% ,#e1ffea22 60%);
 }
-
+.offers-rigth img{
+  height: 200px;
+ }
 .offers-left{
     flex: 1;
     display: flex;
