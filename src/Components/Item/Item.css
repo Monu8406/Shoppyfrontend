@@ -2,9 +2,11 @@
   width:280px;
 }
 .item img{
-  width: 280px;
+  height: 100%;
+  width: 100%;
   
 }
+
 .item  p{
   margin: 6px 0px;
 }
@@ -131,7 +133,8 @@
 
 }
 
-.img{
-
-  height: 200px;
+.item img{
+  height: 100%;
+  width: 100%;
+  
 }
