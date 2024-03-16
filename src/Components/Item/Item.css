@@ -3,7 +3,7 @@
 }
 .item img{
   width: 280px;
-  height: 200px;
+  
 }
 .item  p{
   margin: 6px 0px;
@@ -129,4 +129,9 @@
     width: 160px;
   }
 
+}
+
+.img{
+
+  height: 200px;
 }
