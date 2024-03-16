@@ -11,9 +11,9 @@
     font-weight: 600;
 
 }
-.popular-item Item{
-  height:200px ;
-  width: 200px;
+.popular-item {
+  position: relative;
+  bottom: 20px;
 }
 
 .popular hr{
